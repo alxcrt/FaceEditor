@@ -177,7 +177,7 @@ function RandomFace() {
 
     if (i < numberSliders) {
 
-      pcas[i].value(random(-75, 75));
+      pcas[i].value(random(-50, 50));
       // settings[i] = random(-100, 100) / 100;
 
     }
