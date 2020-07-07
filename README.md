@@ -1,3 +1,3 @@
 # FaceEditor
 
-https://axellben.github.io/FaceEditor/.
+Modify and create faces.
